@@ -1,0 +1,24 @@
+{
+  "name": "win-ipungdev-apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest API - IpungDEV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/purwokang/win-ipungdev-apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "purwokang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purwokang/win-ipungdev-apprestapi/issues"
+  },
+  "homepage": "https://github.com/purwokang/win-ipungdev-apprestapi#readme"
+}
